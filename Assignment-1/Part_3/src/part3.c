@@ -1,5 +1,5 @@
 
-// Saketh Maddamsetty , 170612
+// Ayush Tharwani , 170201
 
 #include <stdio.h>
 #include <dirent.h>
